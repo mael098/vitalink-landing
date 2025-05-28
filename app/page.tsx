@@ -279,10 +279,10 @@ export default function VitalinkLanding() {
                 <CheckCircle className="w-6 h-6 mt-1 flex-shrink-0" style={{ color: "#38B000" }} />
                 <div>
                   <h3 className="text-lg font-semibold mb-2" style={{ color: "#333333" }}>
-                    Acceso Inmediato
+                  Acceso Inmediato
                   </h3>
                   <p style={{ color: "#555555" }}>
-                    Conecta con tu médico desde cualquier dispositivo, en cualquier momento.
+                  Si tu médico no está disponible, puedes compartir tu historial clínico de forma segura e instantánea con otro profesional para recibir atención sin demoras.
                   </p>
                 </div>
               </div>
