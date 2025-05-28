@@ -375,7 +375,7 @@ export default function VitalinkLanding() {
               </span>
             </div>
             <div className="text-sm" style={{ color: "#888888" }}>
-              © 2024 Vitalink. Desarrollado por{" "}
+              © 2025 Vitalink. Desarrollado por{" "}
               <a
                 href="https://github.com/mael098"
                 target="_blank"
